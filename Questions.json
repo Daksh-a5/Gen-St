@@ -1,1 +1,13 @@
+[
+  {
+    "question": "Who was the first President of India?",
+    "options": ["Rajendra Prasad", "Jawaharlal Nehru", "S. Radhakrishnan", "Indira Gandhi"],
+    "answer": "Rajendra Prasad"
+  },
+  {
+    "question": "Which Article of the Constitution deals with Fundamental Rights?",
+    "options": ["Article 12-35", "Article 36-51", "Article 1-11", "Article 52-78"],
+    "answer": "Article 12-35"
+  }
+]
 
